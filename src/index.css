@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100;200;400;600;700;900&display=swap');
+
+:root {
+  --principal-color: #303846;
+  --bold-principal-color: #141415;
+  --low-grey: #F4F4F5;
+  --extra-grey: #F3F2EF;
+  --white: #FFFFFF;
+  --h1-color: #2e2e33;
+  --orange: #d87020;
+  --low-orange: #d88220;
+  --body-font: 'Kumbh Sans', sans-serif;
+  --h1-font-size: 1.8rem;
+  --h2-font-size: 1rem;
+  --normal-font-size: 1rem;
+  --small-font-size: 0.87rem;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700; 
+  --border-radius: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--body-font);
+}
+
+body {
+  max-width: 1600px;
+  min-height: 100vh;
+  background-color: var(--bold-principal-color);
+  line-height: 1.7;
+  color: var;
+  margin: 0 auto;
+  padding: 10px 40px;
+  overflow: auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 0.8rem;
+  border-radius: 0.6rem;
+  font-size: 0.8rem;
+  font-weight: var(--font-semibold);
+  background-color: var(--low-orange);
+  color: var(--white);
+}
+
+button:hover {
+  background-color: var(--orange);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
