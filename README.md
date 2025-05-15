@@ -72,5 +72,4 @@ Pull request'lere ve katkılara açıktır. Yeni özellikler eklemekten veya sor
 Herhangi bir soru için benimle iletişime geçebilirsiniz:  
 **Email:** kroxlycode@gmail.com  
 **GitHub:** [github.com/kroxlycode](https://github.com/kroxlycode)
-```
 ---
