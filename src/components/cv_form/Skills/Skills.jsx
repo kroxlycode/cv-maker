@@ -101,7 +101,7 @@ const Skills = () => {
           <button type="button" onClick={handleAddSkill}>
             Yeni Ekle
           </button>
-          <button type="submit">Kayder</button>
+          <button type="submit">Kaydet</button>
         </div>
       </form>
     </div>
