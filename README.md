@@ -1,7 +1,7 @@
 # CV Maker – React ile Özgeçmiş Oluşturucu
 
 ## 🌐 Live Demo / Canlı Demo
-[👉 Siteyi Görüntüle / View Site](https://cv.kroxly.xyz)  
+[👉 Siteyi Görüntüle / View Site](https://cv.kroxly.dev)  
 ---
 
 ## 🇹🇷 Turkish
